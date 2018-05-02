@@ -10,11 +10,10 @@ Esses conceitos do paradigma, padrões e técnicas utilizadas serão discutidas 
 
 ### Programação Funcional: visão geral
 
->   A programação funcional é entendida como um paradigma de programação onde as soluções desenvolvidas são feitas a partir de funções que buscam obedecer ao seu conceito matemático e é caracterizada por possuir uma entrada e saída de dados bem definida, utilizando as variáveis(dados) de forma imutável buscando a diminuição/exclusão de *side-effects* nas aplicações.
-
+>   A programação funcional é entendida como um paradigma de programação onde as soluções desenvolvidas são feitas a partir de funções que buscam obedecer à definição matemática , sendo esta caracterizada por possuir uma entrada e saída de dados bem definida, utilizando as variáveis(dados) de forma imutável buscando a diminuição/exclusão de *side-effects* nas aplicações.
 
 ### Referências
 
 WARBURTON, Richard. **Object-Oriented vs. Functional Programming: Bridging the Divide Between Opposing Paradigms**. 1ª edição. Califórnia: O’Reilly Media, 2006.
 
-**Programação Funcional**. Wikipédia. Disponível em: <https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional>. Acesso em: 02 mai. 2018.
+**Programação Funcional**. Wikipédia. Disponível em: <https://pt.wikipedia.org/wiki/Programação_funcional>. Acesso em: 02 mai. 2018.
