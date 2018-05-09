@@ -17,7 +17,15 @@ Diferente desta visão onde o foco do software está voltado em objetos e como e
 
 >   A programação funcional é entendida como um paradigma que visa a criação de soluções geradas à partir de funções obedientes à definição matemática, sendo caracterizadas por possuir uma entrada e saída de dados bem definidas, com a presença da imutabilidade nos dados trabalhados, promovendo a diminuição/exclusão de *side-effects* nas aplicações.
 
-Em contrapartida ao que chamamos de pilares da programação orientada à objetos, existem certos conceitos gerais que são fundamentais para programação funcional. São os conceitos de *pure functions*, *first class*, *high-order functions* e  
+Em contrapartida ao que chamamos de pilares da programação orientada à objetos, existem alguns conceitos gerais que são fundamentais para programação funcional. São os conceitos de *pure functions*, *first class*, *high-order functions* e *function composition*.
+
+### OO vs FP: Conceitos fundamentais
+
+> ***Pure functions***: uma função é dita pura se esta executa uma única ação bem definida e não realiza alterações fora do seu escopo. 
+
+Desta maneira, podemos inferir que nenhuma modificação da estrutura que a evocou ou operação de I/O é permitida nessa classificação.Dentro deste contexto podemos fazer uma comparação ao que chamamos de Encapsulamento. 
+
+O encapsulamento é a técnica utilizada para segurança no acesso e modificação dos recursos nos sistemas orientados à objetos. Esta técnica no mundo de FP(*Functional Programming*) pode ser associado ao conceito de *Pure Function*, uma vez que uma função pura não modifica o objeto que faz a chamada para ela e trabalha com os dados de forma imutável, promovendo um ambiente fechado com relação à efeitos colaterais. 
 
 ### Referências
 
